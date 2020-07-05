@@ -9,6 +9,6 @@ module.exports = {
   opts: {
     destination: "./docs/", // Where I want my docs to be generated.
     recurse: true, // Same as using -r or --recurse
-    template: "node_modules/docdash",
+    // template: "node_modules/docdash",
   },
 };
